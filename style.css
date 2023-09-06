@@ -32,7 +32,7 @@ li {
 
 #header {
     padding: 0 3rem;
-    margin-top: 2rem;
+    margin-top: .2rem;
 }
 
 /* #navbar {
@@ -421,7 +421,7 @@ cursor: pointer;
     /* align-items: center; */
     background-color: var(--DarkBluefooterbackground);
     margin-top: -4.5rem;
-    margin-bottom: 1rem;
+    margin-bottom: .2rem;
 }
 .content___wrapper{
     display: flex;
@@ -441,6 +441,7 @@ cursor: pointer;
     justify-content: space-between;
     /* align-items: center; */
     column-gap: 3.5rem;
+    margin-bottom: 2rem;
 }
 .location{
     display: flex;
