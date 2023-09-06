@@ -552,6 +552,7 @@ cursor: pointer;
         width: 100px;
         height: 30px;
     }
+   
 
     .input__button{
         flex-direction: column;
@@ -599,6 +600,7 @@ cursor: pointer;
         width: 300px;
     }
     #fourth-section{
+        margin-top: 3rem;
         padding: 0 1px;
     }
     .nav__content {
@@ -671,6 +673,7 @@ cursor: pointer;
         width: 270px;
     }
     #second-section{
+        margin-top: 3rem;
         padding: 0 10px;
     }
     #footer{
